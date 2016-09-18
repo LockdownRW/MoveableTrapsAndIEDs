@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Moveable Traps and IEDs</name>
+  <author>Lockdown</author>
+  <targetVersion>0.15.1284</targetVersion>
+  <url></url>
+  <description>Allows traps and IEDs to be uninstalled or reinstalled at different locations.</description>
+</ModMetaData>

@@ -1,2 +1,3 @@
 # MoveableTrapsAndIEDs
-Time to go mobile!
+
+Allows traps and IEDs to be uninstalled or reinstalled at different locations.
